@@ -10,4 +10,4 @@ Step2：修改文件
 Step：上传修改
 git add 修改内容的文件名
 git commit -m "修改内容描述"
-git push 用户名 main
+git push -u 用户名 main
