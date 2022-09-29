@@ -7,7 +7,7 @@ Step1：拉取仓库
 Step2：修改文件
 克隆成功后，会获得目标文件夹，请在自己名字缩写文件夹内传入文件。
 
-Step：上传修改
+Step3：上传修改
 git add 修改内容的文件名
 git commit -m "修改内容描述"
 git push -u 用户名 main
